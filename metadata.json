@@ -1,0 +1,5 @@
+{
+  "name": "SplitPrint Payment",
+  "description": "A group payment tracker with a unique receipt printing interface and Gemini-powered reminders.",
+  "requestFramePermissions": []
+}
